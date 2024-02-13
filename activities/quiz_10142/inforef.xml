@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <userref>
+    <user>
+      <id>2345</id>
+    </user>
+    <user>
+      <id>28069</id>
+    </user>
+  </userref>
+  <grade_itemref>
+    <grade_item>
+      <id>2708</id>
+    </grade_item>
+  </grade_itemref>
+  <question_categoryref>
+    <question_category>
+      <id>745</id>
+    </question_category>
+    <question_category>
+      <id>746</id>
+    </question_category>
+    <question_category>
+      <id>747</id>
+    </question_category>
+    <question_category>
+      <id>749</id>
+    </question_category>
+  </question_categoryref>
+</inforef>

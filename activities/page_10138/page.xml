@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2667" moduleid="10138" modulename="page" contextid="67978">
+  <page id="2667">
+    <name>Unit Summary</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;We have taken a closer look at some of
+the key elements of a high-quality IET program design and explored the roles
+that different staff and partners can play in developing and implementing an
+IET. You have also reflected on what role you might play, given your positions,
+skills, and knowledge.&amp;nbsp; In Unit 3, we
+will introduce resources that are available to fully plan, design, and
+implement an IET program. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1689883464</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2669" moduleid="10141" modulename="page" contextid="67981">
+  <page id="2669">
+    <name>Unit Summary</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;You have explored the IET Toolkit and the
+four phases of planning and learned about other resources available to help you
+plan and implement an IET program. Continue to the Course Conclusion section to
+check your knowledge in order to earn a certificate of course completion. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1689885430</timemodified>
+  </page>
+</activity>

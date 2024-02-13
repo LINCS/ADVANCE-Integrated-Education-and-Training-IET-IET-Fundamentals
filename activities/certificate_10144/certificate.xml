@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="251" moduleid="10144" modulename="certificate" contextid="67984">
+  <certificate id="251">
+    <name>Certificate of Completion</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>2</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>dael-signature.png</printsignature>
+    <printseal>0</printseal>
+    <timecreated>1715371266</timecreated>
+    <timemodified>1728252519</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

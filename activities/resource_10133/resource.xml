@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="326" moduleid="10133" modulename="resource" contextid="67973">
+  <resource id="326">
+    <name>Unit 1: An Introduction to Integrated Education and Training Fundamentals</name>
+    <intro>&lt;p dir="ltr" speechify-initial-font-size="17px" style="font-size: 17px;"&gt;&lt;em&gt;&lt;em&gt;The default view opens the unit in this browser window. &lt;em&gt;For optimal viewing, click the following link to open in a new window:&lt;/em&gt;&lt;/em&gt; &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/67973/mod_resource/content/15/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>18</revision>
+    <timemodified>1707778306</timemodified>
+  </resource>
+</activity>

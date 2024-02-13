@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grade_history>
+  <grade_grades>
+    <grade_grade id="427826">
+      <action>1</action>
+      <oldid>230297</oldid>
+      <source>system</source>
+      <loggeduser>28069</loggeduser>
+      <itemid>2708</itemid>
+      <userid>28069</userid>
+      <rawgrade>$@NULL@$</rawgrade>
+      <rawgrademax>100.00000</rawgrademax>
+      <rawgrademin>0.00000</rawgrademin>
+      <rawscaleid>$@NULL@$</rawscaleid>
+      <usermodified>$@NULL@$</usermodified>
+      <finalgrade>$@NULL@$</finalgrade>
+      <hidden>0</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <exported>0</exported>
+      <overridden>0</overridden>
+      <excluded>0</excluded>
+      <feedback>$@NULL@$</feedback>
+      <feedbackformat>0</feedbackformat>
+      <information>$@NULL@$</information>
+      <informationformat>0</informationformat>
+      <timemodified>1707765917</timemodified>
+    </grade_grade>
+    <grade_grade id="427846">
+      <action>1</action>
+      <oldid>230310</oldid>
+      <source>system</source>
+      <loggeduser>2345</loggeduser>
+      <itemid>2708</itemid>
+      <userid>2345</userid>
+      <rawgrade>$@NULL@$</rawgrade>
+      <rawgrademax>100.00000</rawgrademax>
+      <rawgrademin>0.00000</rawgrademin>
+      <rawscaleid>$@NULL@$</rawscaleid>
+      <usermodified>$@NULL@$</usermodified>
+      <finalgrade>$@NULL@$</finalgrade>
+      <hidden>0</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <exported>0</exported>
+      <overridden>0</overridden>
+      <excluded>0</excluded>
+      <feedback>$@NULL@$</feedback>
+      <feedbackformat>0</feedbackformat>
+      <information>$@NULL@$</information>
+      <informationformat>0</informationformat>
+      <timemodified>1707767620</timemodified>
+    </grade_grade>
+  </grade_grades>
+</grade_history>

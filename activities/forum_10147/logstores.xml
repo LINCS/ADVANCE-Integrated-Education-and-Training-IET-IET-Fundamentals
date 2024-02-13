@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="21186686">
+        <eventname>\mod_forum\event\course_module_viewed</eventname>
+        <component>mod_forum</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>forum</objecttable>
+        <objectid>1340</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>67987</contextid>
+        <userid>31282</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>Tjs=</other>
+        <timecreated>1707758686</timecreated>
+        <ip>205.204.186.55</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="21187072">
+        <eventname>\mod_forum\event\course_module_viewed</eventname>
+        <component>mod_forum</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>forum</objecttable>
+        <objectid>1340</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>67987</contextid>
+        <userid>2345</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>Tjs=</other>
+        <timecreated>1707764938</timecreated>
+        <ip>67.242.189.164</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

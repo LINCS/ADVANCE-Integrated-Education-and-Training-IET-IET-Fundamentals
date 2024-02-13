@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="745">
+    <name>top</name>
+    <contextid>67971</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>299</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240209165938+CZKb9r</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="746">
+    <name>Default for AIET_Course1</name>
+    <contextid>67971</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>299</contextinstanceid>
+    <info>The default category for questions shared in context 'AIET_Course1'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230426150815+KWGBPd</stamp>
+    <parent>745</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="2979">
+        <parent>0</parent>
+        <name>Elements of a Career Pathway</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Elements of a Career Pathway (check all that apply)&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628181603+PoFY95</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628195554+uOzmBw</version>
+        <hidden>0</hidden>
+        <timecreated>1687976163</timecreated>
+        <timemodified>1687982154</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9353">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Industry Focus.
+Aligns with skill needs of industries in the state or regional economy.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9354">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Academic Prep.
+Prepares an individual to succeed in secondary or postsecondary education
+options.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9355">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Counseling &amp;amp; Guidance. Includes counseling to support an individual in achieving the
+individual's education and career goals.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9356">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;IET. Includes, as appropriate,
+education offered concurrently with and in the same context as workforce
+preparation activities and training for a specific occupation or occupational
+cluster.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9357">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Accelerated Pace.
+Organizes education, training, and other services to meet the particular needs
+of an individual in a manner that accelerates the educational and career
+advancement of the individual to the extent practicable.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9358">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;HSE &amp;amp; Credential. Enables an individual to attain a secondary school diploma or its
+recognized equivalent, and at least one recognized postsecondary credential.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr"&gt;Another defining feature of a career pathway, according to WIOA, is that it enables an individual to attain a secondary school diploma, or recognized equivalent, and at least one recognized postsecondary credential. However, an IET, depending on what learners it is geared towards, may not culminate in a HSE or postsecondary credential. For example, the basic skills instruction may be for learners who are Pre-HSE or learning English.&amp;nbsp;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9359">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Occupation Emphasis. Helps an individual enter or advance within a specific occupation or
+occupational cluster.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1729">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1361" contextid="67971">
+            <name>elements of a career pathway</name>
+            <rawname>Elements of a Career Pathway</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="2980">
+        <parent>0</parent>
+        <name>Application Activity: Connecting to a Career Pathway </name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;After you have read this profile of an
+IET program: &lt;a href="@@PLUGINFILE@@/Career%20Pathway%20Example%20508.pdf" target="_blank"&gt;Addressing
+Cross-Industry Needs in a Rural Community&lt;/a&gt;,
+match the following components of a career pathway with the elements described
+in the program profile.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628182403+9LqK3T</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230714175633+L9KiFa</version>
+        <hidden>0</hidden>
+        <timecreated>1687976643</timecreated>
+        <timemodified>1689357393</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_match_question>
+          <matchoptions id="174">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="926">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;The group identified an increased need and competition for boiler
+operators in manufacturing companies across the region IET&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Industry Focus</answertext>
+            </match>
+            <match id="927">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Together,
+we defined the initial steps along the boiler operator career pathway that
+would enable incumbent workers to quickly move up the progression and create
+openings and opportunities for others.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Accelerated Pace</answertext>
+            </match>
+            <match id="928">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Our
+model focuses on the boiler operator training and the academic and work
+readiness supports that enable students to complete their high school
+equivalency while completing the training and secure employment.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Academic Prep</answertext>
+            </match>
+            <match id="929">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;The
+lesson plans we developed focused on applying an understanding of algebraic
+equations to boiler operation… We were also able to build in the skill of
+reading gauges for information necessary to fill in the variables in an
+equation.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>IET</answertext>
+            </match>
+            <match id="930">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;We described the supports available to
+eligible participants for reducing their barriers to participation.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Counseling &amp; Guidance</answertext>
+            </match>
+            <match id="931">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;To
+advance along the boiler operator career pathway a participant must complete an
+approved boiler operator training course, followed by a three-month
+apprenticeship or OJT.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Occupation Emphasis</answertext>
+            </match>
+            <match id="932">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;The
+next step is applying for and taking the Boiler Operator Exam for state
+licensing certification. With this license, the initial step in the career
+pathway is considered complete.&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>HSE &amp; Credential</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2981">
+        <parent>0</parent>
+        <name>Collaboration</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;I would need knowledge of or information about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628184309+I9BWCV</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185336+vwmWww</version>
+        <hidden>0</hidden>
+        <timecreated>1687977789</timecreated>
+        <timemodified>1687978416</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9360">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contacts at our local workforce board&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9361">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contacts at the local&amp;nbsp; American Job Center&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9362">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contacts at companies in a
+high-growth industry sector&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9363">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contacts at community-based human
+service and other organizations&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9364">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contacts at career and technical
+education and workforce training providers&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9365">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;experience and skills in
+facilitating collaboration across multiple organizations&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1730">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2982">
+        <parent>0</parent>
+        <name>Intake and Orientation</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;I would need knowledge of or information about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628184532+zPpFjR</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185323+R3PNJZ</version>
+        <hidden>0</hidden>
+        <timecreated>1687977932</timecreated>
+        <timemodified>1687978403</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9366">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;the
+opportunities for employment in the targeted career pathway&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9367">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;workforce
+preparation skills and personal attributes needed to be successful in the
+pathway&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9368">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;academic
+and language foundation needed to enroll in the IET&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9369">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;career
+interest and skill assessments to help applicants determine readiness and fit&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9370">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;day-to-day
+duties,&amp;nbsp; work environment, and training demands of the targeted
+occupation,&amp;nbsp; in order to help prospective students make informed decisions
+to participate in training&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9371">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;available
+resources to support the learner through the training&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9372">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;how
+to conduct a comprehensive intake interview to determine eligibility and fit&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9373">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;guest
+speakers to share information about workforce training and targeted career
+pathways&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1731">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2983">
+        <parent>0</parent>
+        <name>Curriculum and Instruction</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;I would need knowledge of or information about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628184858+8Qn5TH</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185358+MQjEFj</version>
+        <hidden>0</hidden>
+        <timecreated>1687978138</timecreated>
+        <timemodified>1687978438</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9374">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;skills, interests, and personal attributes needed to be successful in
+the pathway&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9375">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;basic academic and language skills needed to succeed in training&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9376">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;curriculum used in the workforce
+training component&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9377">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;models and practices for working
+in coordination with workforce training instructors to support participants&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9378">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;contextualizing basic skills instruction&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9379">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;authentic workplace scenarios and problems for the application of basic
+skills&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1732">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2984">
+        <parent>0</parent>
+        <name>Using Data for Continuing Improvement</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;I would need knowledge of or information about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628185125+BL1JYI</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185420+beWoCh</version>
+        <hidden>0</hidden>
+        <timecreated>1687978285</timecreated>
+        <timemodified>1687978460</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9380">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;best
+practices for gathering feedback from students via surveys, focus groups, and
+interviews&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9381">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;best
+practices for gathering feedback from key workforce and employer partners&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9382">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;how
+to best use our state-reported data (e.g.,
+student demographics, measurable skills gains, credential attainment,
+attendance, persistence, etc.&amp;nbsp; to inform program improvement)&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9383">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;types
+of additional data we might collect and use to evaluate our program and inform
+improvements&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9384">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;understanding
+who is responsible to take action or make changes given the data&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1733">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2985">
+        <parent>0</parent>
+        <name>Wrap-around Services and Career Support</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;I would need knowledge of or information about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628185252+cDlPte</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185437+DggMaH</version>
+        <hidden>0</hidden>
+        <timecreated>1687978372</timecreated>
+        <timemodified>1687978477</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9385">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;supports
+available at the local&amp;nbsp; American Job Center &lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9386">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;services
+and supports available at local community-based human service and other
+organizations&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9387">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;best
+practices for assisting students with career exploration and planning&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9388">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;best
+practices for assessing student eligibility for services and financial support
+related to training participation&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9389">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;local
+employment opportunities in the targeted occupation&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1734">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2986">
+        <parent>0</parent>
+        <name>Essay response</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Now that you have considered how you
+would contribute to an IET program, which of the key elements do you have the
+most checks under? What are two steps you can take to become more knowledgeable
+in this area?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628185706+kWNlqT</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230628185706+NtaJEl</version>
+        <hidden>0</hidden>
+        <timecreated>1687978626</timecreated>
+        <timemodified>1687978626</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_essay_question>
+          <essay id="346">
+            <responseformat>editor</responseformat>
+            <responserequired>1</responserequired>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <attachmentsrequired>0</attachmentsrequired>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+            <filetypeslist></filetypeslist>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2987">
+        <parent>0</parent>
+        <name>The definition of Integrated Education and Training is outlined in which federal legislation?</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;The
+definition of Integrated Education and Training is outlined in which federal
+legislation?&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628190957+ZXgKHZ</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706163005+1qfwTb</version>
+        <hidden>0</hidden>
+        <timecreated>1687979397</timecreated>
+        <timemodified>1688661005</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9390">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Every Student Succeeds Act (ESSA)&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9391">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Higher Education Act (HEA)&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9392">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;Workforce Innovation and Opportunity Act (WIOA)&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9393">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Carl D. Perkins Act&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1735">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2988">
+        <parent>0</parent>
+        <name>A key feature of an IET program is the integration of three core curricular components.  Which list is correct? </name>
+        <questiontext>&lt;p style="text-align: left;" dir="ltr"&gt;A key feature of an IET program is the integration of three core curricular components.  Which list is correct? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628191125+G0wem8</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231214190349+bjYVP6</version>
+        <hidden>0</hidden>
+        <timecreated>1687979485</timecreated>
+        <timemodified>1702580629</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9394">
+              <answertext>&lt;p style="text-align: left;" dir="ltr"&gt; &lt;/p&gt;
+&lt;div&gt;High school equivilancy preparation, English instruction, workforce training&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9395">
+              <answertext>&lt;p style="text-align: left;" dir="ltr"&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;workforce preparation activities, adult education and literacy/basic skills, workforce training&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9396">
+              <answertext>&lt;p style="text-align: left;" dir="ltr"&gt; &lt;/p&gt;
+&lt;div&gt;workforce preparation, employability skills, career pathways&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1736">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2989">
+        <parent>0</parent>
+        <name>A benefit of IET to adult learners is that it:</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;A
+benefit of IET to adult learners is that it:&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;Although counseling and support are not in the definition of an IET, remember that an IET should be part of a career pathway that includes counseling and support.&lt;br&gt;&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628191321+PvxcAj</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162700+KC1NbL</version>
+        <hidden>0</hidden>
+        <timecreated>1687979601</timecreated>
+        <timemodified>1688660820</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9397">
+              <answertext>&lt;p dir="ltr"&gt;Includes counseling and support&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9398">
+              <answertext>&lt;p dir="ltr"&gt;Is not very academically challenging&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9399">
+              <answertext>&lt;p dir="ltr"&gt;Is not focused on preparing learners for a specific industry or occupation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9400">
+              <answertext>&lt;p dir="ltr"&gt;Enables accelerated learning and reduces the training time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1737">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2990">
+        <parent>0</parent>
+        <name>Which of the following best illustrates the concept of three curricular components being taught concurrently?</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Which of the following best illustrates the concept of three curricular components being taught concurrently?&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628191517+AYW4Pa</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162548+YjXyWj</version>
+        <hidden>0</hidden>
+        <timecreated>1687979717</timecreated>
+        <timemodified>1688660748</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9401">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Over the 18-week program, welding classes are every afternoon, Mon - Fri. Basic skills are taught in the evenings on Mon and Tues. On Wed evening, students learn how to write resumes, search for jobs and practice interviewing for jobs.&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9402">
+              <answertext>&lt;p dir="ltr"&gt;During weeks one through eight students attend basic skills classes, Mon - Fri.&amp;nbsp; Welding classes are taught weeks eight through sixteen and students look for jobs during the last two weeks. The total program is 18 weeks long.&amp;nbsp;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9403">
+              <answertext>&lt;p dir="ltr"&gt;Throughout the 18-week welding program,&amp;nbsp; students work with a career counselor to learn how to write a resume. The career counselor runs workshops on resume writing and job search skills.&amp;nbsp;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1738">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2991">
+        <parent>0</parent>
+        <name>Which of the following best illustrates the concept of basic skills instruction contextualized to a specific industry or occupation?</name>
+        <questiontext>&lt;p dir="ltr"&gt;Which of the following best illustrates the concept of basic skills instruction contextualized to a specific industry or occupation?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628191649+TWARFN</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162450+cJiaHM</version>
+        <hidden>0</hidden>
+        <timecreated>1687979809</timecreated>
+        <timemodified>1688660690</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9404">
+              <answertext>&lt;p dir="ltr"&gt;An adult education instructor uses a high school equivalency test preparation textbook and practice tests to teach the basic skills portion of a manufacturing IET because a high school credential is required by local manufacturing companies.&amp;nbsp;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9405">
+              <answertext>&lt;p dir="ltr"&gt;An adult education instructor spends an hour each day in the carpentry shop identifying the reading and math used in the class and in textbooks to inform the planning of the content and application activities of the basic skills class.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1739">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2992">
+        <parent>0</parent>
+        <name>A program that prepares students to pass a high school equivalency exam while simultaneously helping them explore career options and research local training programs is an example of an IET.</name>
+        <questiontext>&lt;p dir="ltr"&gt;A program that prepares students to pass a high school equivalency exam while simultaneously helping them explore career options and research local training programs is an example of an IET.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;Although the program might help students explore career options and research future training, it does not provide workforce training, a key feature of an IET.&lt;br&gt;&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628191817+zgyjhm</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162352+qT7muL</version>
+        <hidden>0</hidden>
+        <timecreated>1687979897</timecreated>
+        <timemodified>1688660632</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="9406">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9407">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="327">
+            <trueanswer>9406</trueanswer>
+            <falseanswer>9407</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2993">
+        <parent>0</parent>
+        <name>Every step of IET planning, design, and implementation relies on collaboration.</name>
+        <questiontext>&lt;p style="text-align: left;" dir="ltr"&gt; &lt;/p&gt;
+&lt;div&gt;Select the correct word from the drop-down menu to fill in the words in the sentences below.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Every step of IET planning, design, and implementation relies on &lt;span style="text-decoration: underline;"&gt;[[1]]&lt;/span&gt; &lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: 1.7rem;"&gt;A comprehensive and holistic intake and &lt;/span&gt;&lt;span style="font-size: 1.7rem; text-decoration: underline;"&gt;[[2]]&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt; process is integral to supporting student success. &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: 1.7rem;"&gt;Quality curriculum and instruction provide opportunities for students to apply and practice learning in &lt;/span&gt;&lt;span style="font-size: 1.7rem; text-decoration: underline;"&gt;[[3]]&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt; scenarios they would encounter in the &lt;/span&gt;&lt;span style="font-size: 1.7rem; text-decoration: underline;"&gt;[[4]]&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>gapselect</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628192222+mOvMxr</stamp>
+        <version>lincs-moodle-dev.civicactions.net+240123150933+uYLtBa</version>
+        <hidden>0</hidden>
+        <timecreated>1687980142</timecreated>
+        <timemodified>1706022573</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_gapselect_question>
+          <answers>
+            <answer id="9408">
+              <answertext>collaboration.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9409">
+              <answertext>orientation</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9410">
+              <answertext>authentic</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9411">
+              <answertext>workplace.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9412">
+              <answertext>feedback.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9413">
+              <answertext>wrap-around services.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9414">
+              <answertext>career support.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9415">
+              <answertext>credentials.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <gapselect id="1">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </gapselect>
+        </plugin_qtype_gapselect_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2994">
+        <parent>0</parent>
+        <name>Fill-in-the-blank (4.1.10)</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;Effective
+IET programs have a dedicated person who provides students with &lt;u&gt;[[1]] &lt;/u&gt;and
+connection to &lt;u&gt;[[2]]&lt;/u&gt; to
+help them stay on track with their goals. &lt;/div&gt;
+
+Data used for continuous improvement
+include student outcomes such as the attainment of &lt;u&gt;[[3]]&lt;/u&gt; and employment as well as &lt;u&gt;&lt;/u&gt;[[4]] from students, instructors, and
+employers.&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>ddwtos</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628192549+0B7tXt</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162122+3etYRp</version>
+        <hidden>0</hidden>
+        <timecreated>1687980349</timecreated>
+        <timemodified>1688660482</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_ddwtos_question>
+          <answers>
+            <answer id="9416">
+              <answertext>career support</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9417">
+              <answertext>wrap-around services</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9418">
+              <answertext>credentials</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9419">
+              <answertext>feedback</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9420">
+              <answertext>authentic</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9421">
+              <answertext>workplace</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9422">
+              <answertext>collaboration</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9423">
+              <answertext>orientation</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <ddwtos id="1">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </ddwtos>
+        </plugin_qtype_ddwtos_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2995">
+        <parent>0</parent>
+        <name>To show the sequence of the four phases of IET planning, match the phase number to the title.</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;To
+show the sequence of the four phases of IET planning, match the Phase number to
+the title.&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Phase 1&amp;nbsp; Research
+and Assess&lt;/p&gt;
+
+&lt;p&gt;Phase 2&amp;nbsp; Design
+and Plan&lt;/p&gt;
+
+&lt;p&gt;Phase 3&amp;nbsp; Develop
+and Implement&lt;/p&gt;
+
+Phase
+4&amp;nbsp; Evaluate and Improve&lt;br&gt;&lt;p&gt;&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628192747+PW47L4</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230706162011+suObAe</version>
+        <hidden>0</hidden>
+        <timecreated>1687980467</timecreated>
+        <timemodified>1688660411</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_match_question>
+          <matchoptions id="175">
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="933">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Phase
+1&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Research and Assess</answertext>
+            </match>
+            <match id="934">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Phase
+2&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Design and Plan</answertext>
+            </match>
+            <match id="935">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Phase
+3&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Develop and Implement</answertext>
+            </match>
+            <match id="936">
+              <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Phase
+4&lt;br&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Evaluate and Improve</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2996">
+        <parent>0</parent>
+        <name>Which approach to curriculum development is suggested in the IET Toolkit?</name>
+        <questiontext>&lt;p dir="ltr"&gt;Which approach to curriculum development is suggested in the IET Toolkit?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230628192934+HWKWpV</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231215202750+NoNzl2</version>
+        <hidden>0</hidden>
+        <timecreated>1687980574</timecreated>
+        <timemodified>1702672070</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9424">
+              <answertext>&lt;p dir="ltr"&gt;Begin by developing a new curriculum.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9425">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;Begin by surveying students about their interests.&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9426">
+              <answertext>&lt;p dir="ltr"&gt;Begin with an existing occupational training curriculum.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9427">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1740">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2997">
+        <parent>0</parent>
+        <name>Fill-in-the-blank (4.1.10)</name>
+        <questiontext>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;div&gt;Select the correct word from the drop-down menu to fill in the words in the sentences below.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Effective IET programs have a dedicated person who provides students with [[1]] and connection to&amp;nbsp;[[2]] to help them stay on track with their goals.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Data used for continuous improvement include student outcomes such as the attainment of&amp;nbsp; [[3]] and employment as well as&amp;nbsp;[[4]] from students, instructors, and employers.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>gapselect</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230721171920+zxqL5g</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230724163425+NziWWd</version>
+        <hidden>0</hidden>
+        <timecreated>1689959960</timecreated>
+        <timemodified>1690216465</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_gapselect_question>
+          <answers>
+            <answer id="9428">
+              <answertext>career support</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9429">
+              <answertext>wrap-around services</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9430">
+              <answertext>credentials</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9431">
+              <answertext>feedback</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9432">
+              <answertext>authentic</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9433">
+              <answertext>workplace</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9434">
+              <answertext>collaboration</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="9435">
+              <answertext>orientation</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>1</feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <gapselect id="2">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </gapselect>
+        </plugin_qtype_gapselect_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2998">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p dir="ltr"&gt;“The group identified an increased need and competition for boiler operators in manufacturing companies across the region IET.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Which career pathway element does this illustrate?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025194822+C0iEei</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183324+63En4f</version>
+        <hidden>0</hidden>
+        <timecreated>1698263302</timecreated>
+        <timemodified>1698431604</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9436">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Industry Focus&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9437">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Academic Prep&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9438">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Counseling &amp;amp; Guidance&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9439">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;HSE &amp;amp; Credential&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1741">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2999">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>“Together, we defined the initial steps along the boiler operator career pathway that would enable incumbent workers to quickly move up the progression and create openings and opportunities for others.”&amp;nbsp;&lt;p&gt;&amp;nbsp;Which career pathway element does this illustrate?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025204817+XGjUNt</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183347+NaLGir</version>
+        <hidden>0</hidden>
+        <timecreated>1698266897</timecreated>
+        <timemodified>1698431627</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9440">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;IET&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9441">
+              <answertext>&lt;p dir="ltr"&gt;Accelerated Pace&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9442">
+              <answertext>&lt;p dir="ltr"&gt;HSE &amp;amp; Credential&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9443">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occupation Emphasis&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Incorrect.&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1742">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3000">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;span id="docs-internal-guid-3b6eba22-7fff-76d7-763d-a220b83fd1e4" style="font-size: 1.7rem;"&gt;“Our model focuses on the boiler operator training and the academic and work readiness supports that enable students to complete their high school equivalency while completing the training and secure employment.”&amp;nbsp;&lt;/span&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;Which career pathway element does this illustrate?&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025205032+iAt2OQ</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183419+2YcP5B</version>
+        <hidden>0</hidden>
+        <timecreated>1698267032</timecreated>
+        <timemodified>1698431659</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9444">
+              <answertext>&lt;p dir="ltr"&gt;Academic Prep&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9445">
+              <answertext>&lt;p dir="ltr"&gt;Counseling &amp;amp; Guidance&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9446">
+              <answertext>&lt;p dir="ltr"&gt;Accelerated Pace&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9447">
+              <answertext>&lt;p dir="ltr"&gt;HSE &amp;amp; Credential&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1743">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3001">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p dir="ltr"&gt;“The lesson plans we developed focused on applying an understanding of algebraic equations to boiler operation… We were also able to build in the skill of reading gauges for information necessary to fill in the variables in an equation.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Which career pathway element does this illustrate?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025205239+g3z45x</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183441+3Ed4nw</version>
+        <hidden>0</hidden>
+        <timecreated>1698267159</timecreated>
+        <timemodified>1698431681</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9448">
+              <answertext>&lt;p dir="ltr"&gt;Industry Focus&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9449">
+              <answertext>&lt;p dir="ltr"&gt;IET&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9450">
+              <answertext>&lt;p dir="ltr"&gt;Accelerated Pace&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9451">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occupation Emphasis&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1744">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3002">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p dir="ltr"&gt;“We described the supports available to eligible participants for reducing their barriers to participation.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Which career pathway element does this illustrate?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025205715+ZW7dxA</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183503+h0l695</version>
+        <hidden>0</hidden>
+        <timecreated>1698267435</timecreated>
+        <timemodified>1698431703</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9452">
+              <answertext>&lt;p dir="ltr"&gt;Industry Focus&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9453">
+              <answertext>&lt;p dir="ltr"&gt;Counseling &amp;amp; Guidance&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9454">
+              <answertext>&lt;p dir="ltr"&gt;HSE &amp;amp; Credential&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9455">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occupation Emphasis&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1745">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3003">
+        <parent>0</parent>
+        <name>Question 6</name>
+        <questiontext>&lt;p dir="ltr"&gt;“To advance along the boiler operator career pathway a participant must complete an approved boiler operator training course, followed by a three-month apprenticeship or OJT.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Which career pathway element does this illustrate?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025210028+FTIRkx</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183516+3tHhlY</version>
+        <hidden>0</hidden>
+        <timecreated>1698267628</timecreated>
+        <timemodified>1698431716</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9456">
+              <answertext>&lt;p dir="ltr"&gt;Counseling &amp;amp; Guidance&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9457">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;IET&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9458">
+              <answertext>&lt;p dir="ltr"&gt;Accelerated Pace&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9459">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occupation Emphasis&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1746">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3004">
+        <parent>0</parent>
+        <name>Question 7</name>
+        <questiontext>&lt;p dir="ltr"&gt;“The next step is applying for and taking the Boiler Operator Exam for state licensing certification. With this license, the initial step in the career pathway is considered complete.”&lt;/p&gt;&lt;p dir="ltr"&gt;Which career pathway element does this illustrate?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231025210239+gbvpCD</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231027183533+9Ao10f</version>
+        <hidden>0</hidden>
+        <timecreated>1698267759</timecreated>
+        <timemodified>1698431733</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9460">
+              <answertext>&lt;p dir="ltr"&gt;Academic Prep&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9461">
+              <answertext>&lt;p dir="ltr"&gt;Accelerated Pace&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9462">
+              <answertext>&lt;p dir="ltr"&gt;HSE &amp;amp; Credential&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9463">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occupation Emphasis&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1747">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3005">
+        <parent>0</parent>
+        <name>Which approach to curriculum development is suggested in the IET Toolkit?</name>
+        <questiontext>Which approach to curriculum development is suggested in the IET Toolkit?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+231215203107+0HhUP0</stamp>
+        <version>lincs-moodle-dev.civicactions.net+231215203325+2vIfFP</version>
+        <hidden>0</hidden>
+        <timecreated>1702672267</timecreated>
+        <timemodified>1702672405</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9464">
+              <answertext>Begin by developing a new curriculum.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9465">
+              <answertext>Begin by surveying students about their interests.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9466">
+              <answertext>Begin with an existing occupational training curriculum.</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1748">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="747">
+    <name>Default for Final Assessment (4.1.3)</name>
+    <contextid>67982</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10142</contextinstanceid>
+    <info>The default category for questions shared in context 'Final Assessment (4.1.3)'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230628190834+KkBNpc</stamp>
+    <parent>749</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="748">
+    <name>Default for (10.25.23) Application Activity: Connecting to a Career Pathway</name>
+    <contextid>67974</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10134</contextinstanceid>
+    <info>The default category for questions shared in context '(10.25.23) Application Activity: Connecting to a Career Pathway'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+231025191132+rxjZPF</stamp>
+    <parent>750</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="749">
+    <name>top</name>
+    <contextid>67982</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10142</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240209165942+pDMFOB</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="750">
+    <name>top</name>
+    <contextid>67974</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10134</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240209165942+yqk0IO</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

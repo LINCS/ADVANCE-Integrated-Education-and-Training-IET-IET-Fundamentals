@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="178" moduleid="10134" modulename="quiz" contextid="67974">
+  <quiz id="178">
+    <name>Application Activity: Connecting to a Career Pathway</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;After you have read this profile of an IET program: &lt;a href="https://lincs.ed.gov/sites/default/files/2023-11/CareerPathwayExample-508.pdf" target="_blank"&gt;Addressing Cross-Industry Needs in a Rural Community&lt;/a&gt;, answer the following multiple-choice questions. Choose the career pathway element that is represented in each of the excerpts from the program profile. You must correctly answer five (5) out of seven (7) questions to complete this activity. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>4352</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>70.00000</sumgrades>
+    <grade>70.00000</grade>
+    <timecreated>1698261067</timecreated>
+    <timemodified>1706550701</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>1</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="1292">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2998</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1293">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2999</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1294">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3000</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1295">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3001</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1296">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3002</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1297">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3003</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1298">
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3004</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>10.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="152">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="235">
+        <feedbacktext>&lt;p&gt;Now that you've completed this activity, return to the main course page to review the &lt;a href="$@PAGEVIEWBYID*10135@$"&gt;Unit Summary.&lt;/a&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>71.00001</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="44561">
+        <userid>28069</userid>
+        <gradeval>70.00000</gradeval>
+        <timemodified>1707766207</timemodified>
+      </grade>
+      <grade id="44562">
+        <userid>2345</userid>
+        <gradeval>50.00000</gradeval>
+        <timemodified>1707767620</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="72410">
+        <userid>28069</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>72443</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0</layout>
+        <currentpage>6</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1707765085</timestart>
+        <timefinish>1707765917</timefinish>
+        <timemodified>1707765917</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>50.00000</sumgrades>
+        <question_usage id="72443">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="397218">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2998</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The group identified an increased need and competition for boiler operators in manufacturing companies across the region IET.” 
+
+Which career pathway element does this illustrate?
+
+: Industry Focus
+; HSE &amp; Credential
+; Counseling &amp; Guidance
+; Academic Prep
+</questionsummary>
+              <rightanswer>Industry Focus
+</rightanswer>
+              <responsesummary>Industry Focus
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174952">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9436,9439,9438,9437</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174959">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765106</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174996">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397219">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2999</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Together, we defined the initial steps along the boiler operator career pathway that would enable incumbent workers to quickly move up the progression and create openings and opportunities for others.” 
+ Which career pathway element does this illustrate?
+: Accelerated Pace
+
+; IET
+
+; HSE &amp; Credential
+
+; Occupation Emphasis
+
+</questionsummary>
+              <rightanswer>Accelerated Pace
+
+</rightanswer>
+              <responsesummary>Accelerated Pace
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174953">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9441,9440,9442,9443</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174960">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765127</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174997">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397220">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3000</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Our model focuses on the boiler operator training and the academic and work readiness supports that enable students to complete their high school equivalency while completing the training and secure employment.” 
+Which career pathway element does this illustrate?
+
+: Academic Prep
+
+; Accelerated Pace
+
+; HSE &amp; Credential
+
+; Counseling &amp; Guidance
+
+</questionsummary>
+              <rightanswer>Academic Prep
+
+</rightanswer>
+              <responsesummary>HSE &amp; Credential
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174954">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9444,9446,9447,9445</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174961">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765143</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174998">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397221">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3001</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The lesson plans we developed focused on applying an understanding of algebraic equations to boiler operation… We were also able to build in the skill of reading gauges for information necessary to fill in the variables in an equation.” 
+
+Which career pathway element does this illustrate?
+: Occupation Emphasis
+
+; Accelerated Pace
+
+; Industry Focus
+
+; IET
+
+</questionsummary>
+              <rightanswer>IET
+
+</rightanswer>
+              <responsesummary>IET
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174955">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9451,9450,9448,9449</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174962">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765203</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174999">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397222">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3002</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“We described the supports available to eligible participants for reducing their barriers to participation.” 
+
+Which career pathway element does this illustrate?
+: Industry Focus
+
+; HSE &amp; Credential
+
+; Occupation Emphasis
+
+; Counseling &amp; Guidance
+
+</questionsummary>
+              <rightanswer>Counseling &amp; Guidance
+
+</rightanswer>
+              <responsesummary>Counseling &amp; Guidance
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174956">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9452,9454,9455,9453</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174963">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765216</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175000">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397223">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3003</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“To advance along the boiler operator career pathway a participant must complete an approved boiler operator training course, followed by a three-month apprenticeship or OJT.” 
+
+Which career pathway element does this illustrate?
+
+: IET
+
+; Occupation Emphasis
+
+; Counseling &amp; Guidance
+
+; Accelerated Pace
+
+</questionsummary>
+              <rightanswer>Occupation Emphasis
+
+</rightanswer>
+              <responsesummary>IET
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174957">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9457,9459,9456,9458</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174994">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765882</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175001">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397224">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3004</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The next step is applying for and taking the Boiler Operator Exam for state licensing certification. With this license, the initial step in the career pathway is considered complete.”
+
+Which career pathway element does this illustrate?
+
+: Occupation Emphasis
+
+; Academic Prep
+
+; Accelerated Pace
+
+; HSE &amp; Credential
+
+</questionsummary>
+              <rightanswer>HSE &amp; Credential
+
+</rightanswer>
+              <responsesummary>HSE &amp; Credential
+
+</responsesummary>
+              <timemodified>1707765917</timemodified>
+              <steps>
+                <step id="1174958">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765085</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9463,9460,9461,9462</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1174995">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707765912</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175002">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707765917</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="72413">
+        <userid>28069</userid>
+        <attemptnum>2</attemptnum>
+        <uniqueid>72446</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0</layout>
+        <currentpage>6</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1707766128</timestart>
+        <timefinish>1707766207</timefinish>
+        <timemodified>1707766207</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>70.00000</sumgrades>
+        <question_usage id="72446">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="397235">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2998</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The group identified an increased need and competition for boiler operators in manufacturing companies across the region IET.” 
+
+Which career pathway element does this illustrate?
+
+: HSE &amp; Credential
+; Counseling &amp; Guidance
+; Academic Prep
+; Industry Focus
+</questionsummary>
+              <rightanswer>Industry Focus
+</rightanswer>
+              <responsesummary>Industry Focus
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175003">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9439,9438,9437,9436</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175010">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766139</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175017">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397236">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2999</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Together, we defined the initial steps along the boiler operator career pathway that would enable incumbent workers to quickly move up the progression and create openings and opportunities for others.” 
+ Which career pathway element does this illustrate?
+: HSE &amp; Credential
+
+; IET
+
+; Occupation Emphasis
+
+; Accelerated Pace
+
+</questionsummary>
+              <rightanswer>Accelerated Pace
+
+</rightanswer>
+              <responsesummary>Accelerated Pace
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175004">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9442,9440,9443,9441</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175011">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766144</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175018">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397237">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3000</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Our model focuses on the boiler operator training and the academic and work readiness supports that enable students to complete their high school equivalency while completing the training and secure employment.” 
+Which career pathway element does this illustrate?
+
+: Accelerated Pace
+
+; Academic Prep
+
+; Counseling &amp; Guidance
+
+; HSE &amp; Credential
+
+</questionsummary>
+              <rightanswer>Academic Prep
+
+</rightanswer>
+              <responsesummary>Academic Prep
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175005">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9446,9444,9445,9447</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175012">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766165</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175019">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397238">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3001</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The lesson plans we developed focused on applying an understanding of algebraic equations to boiler operation… We were also able to build in the skill of reading gauges for information necessary to fill in the variables in an equation.” 
+
+Which career pathway element does this illustrate?
+: Accelerated Pace
+
+; IET
+
+; Industry Focus
+
+; Occupation Emphasis
+
+</questionsummary>
+              <rightanswer>IET
+
+</rightanswer>
+              <responsesummary>IET
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175006">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9450,9449,9448,9451</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175013">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766171</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175020">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397239">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3002</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“We described the supports available to eligible participants for reducing their barriers to participation.” 
+
+Which career pathway element does this illustrate?
+: Counseling &amp; Guidance
+
+; HSE &amp; Credential
+
+; Industry Focus
+
+; Occupation Emphasis
+
+</questionsummary>
+              <rightanswer>Counseling &amp; Guidance
+
+</rightanswer>
+              <responsesummary>Counseling &amp; Guidance
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175007">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9453,9454,9452,9455</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175014">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766177</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175021">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397240">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3003</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“To advance along the boiler operator career pathway a participant must complete an approved boiler operator training course, followed by a three-month apprenticeship or OJT.” 
+
+Which career pathway element does this illustrate?
+
+: IET
+
+; Counseling &amp; Guidance
+
+; Occupation Emphasis
+
+; Accelerated Pace
+
+</questionsummary>
+              <rightanswer>Occupation Emphasis
+
+</rightanswer>
+              <responsesummary>Occupation Emphasis
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175008">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9457,9456,9459,9458</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175015">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766197</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175022">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397241">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3004</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The next step is applying for and taking the Boiler Operator Exam for state licensing certification. With this license, the initial step in the career pathway is considered complete.”
+
+Which career pathway element does this illustrate?
+
+: Occupation Emphasis
+
+; Academic Prep
+
+; HSE &amp; Credential
+
+; Accelerated Pace
+
+</questionsummary>
+              <rightanswer>HSE &amp; Credential
+
+</rightanswer>
+              <responsesummary>HSE &amp; Credential
+
+</responsesummary>
+              <timemodified>1707766207</timemodified>
+              <steps>
+                <step id="1175009">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766128</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9463,9460,9462,9461</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175016">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707766202</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175023">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707766207</timecreated>
+                  <userid>28069</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="72414">
+        <userid>2345</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>72447</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0</layout>
+        <currentpage>6</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1707767509</timestart>
+        <timefinish>1707767620</timefinish>
+        <timemodified>1707767620</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>50.00000</sumgrades>
+        <question_usage id="72447">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="397242">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2998</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The group identified an increased need and competition for boiler operators in manufacturing companies across the region IET.” 
+
+Which career pathway element does this illustrate?
+
+: Industry Focus
+; Academic Prep
+; Counseling &amp; Guidance
+; HSE &amp; Credential
+</questionsummary>
+              <rightanswer>Industry Focus
+</rightanswer>
+              <responsesummary>Industry Focus
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175024">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9436,9437,9438,9439</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175031">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767523</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175038">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397243">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2999</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Together, we defined the initial steps along the boiler operator career pathway that would enable incumbent workers to quickly move up the progression and create openings and opportunities for others.” 
+ Which career pathway element does this illustrate?
+: HSE &amp; Credential
+
+; IET
+
+; Occupation Emphasis
+
+; Accelerated Pace
+
+</questionsummary>
+              <rightanswer>Accelerated Pace
+
+</rightanswer>
+              <responsesummary>Accelerated Pace
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175025">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9442,9440,9443,9441</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175032">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767537</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175039">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397244">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3000</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“Our model focuses on the boiler operator training and the academic and work readiness supports that enable students to complete their high school equivalency while completing the training and secure employment.” 
+Which career pathway element does this illustrate?
+
+: Academic Prep
+
+; Counseling &amp; Guidance
+
+; Accelerated Pace
+
+; HSE &amp; Credential
+
+</questionsummary>
+              <rightanswer>Academic Prep
+
+</rightanswer>
+              <responsesummary>Academic Prep
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175026">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9444,9445,9446,9447</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175033">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767546</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175040">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397245">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3001</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The lesson plans we developed focused on applying an understanding of algebraic equations to boiler operation… We were also able to build in the skill of reading gauges for information necessary to fill in the variables in an equation.” 
+
+Which career pathway element does this illustrate?
+: Industry Focus
+
+; Occupation Emphasis
+
+; Accelerated Pace
+
+; IET
+
+</questionsummary>
+              <rightanswer>IET
+
+</rightanswer>
+              <responsesummary>Occupation Emphasis
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175027">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9448,9451,9450,9449</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175034">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767568</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175041">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397246">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3002</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“We described the supports available to eligible participants for reducing their barriers to participation.” 
+
+Which career pathway element does this illustrate?
+: Industry Focus
+
+; HSE &amp; Credential
+
+; Counseling &amp; Guidance
+
+; Occupation Emphasis
+
+</questionsummary>
+              <rightanswer>Counseling &amp; Guidance
+
+</rightanswer>
+              <responsesummary>Counseling &amp; Guidance
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175028">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9452,9454,9453,9455</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175035">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767577</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175042">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397247">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3003</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“To advance along the boiler operator career pathway a participant must complete an approved boiler operator training course, followed by a three-month apprenticeship or OJT.” 
+
+Which career pathway element does this illustrate?
+
+: Accelerated Pace
+
+; Counseling &amp; Guidance
+
+; Occupation Emphasis
+
+; IET
+
+</questionsummary>
+              <rightanswer>Occupation Emphasis
+
+</rightanswer>
+              <responsesummary>Accelerated Pace
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175029">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9458,9456,9459,9457</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175036">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767603</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175043">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="397248">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3004</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>“The next step is applying for and taking the Boiler Operator Exam for state licensing certification. With this license, the initial step in the career pathway is considered complete.”
+
+Which career pathway element does this illustrate?
+
+: Accelerated Pace
+
+; Occupation Emphasis
+
+; Academic Prep
+
+; HSE &amp; Credential
+
+</questionsummary>
+              <rightanswer>HSE &amp; Credential
+
+</rightanswer>
+              <responsesummary>HSE &amp; Credential
+
+</responsesummary>
+              <timemodified>1707767620</timemodified>
+              <steps>
+                <step id="1175030">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767509</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9461,9463,9460,9462</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175037">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1707767613</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1175044">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1707767620</timecreated>
+                  <userid>2345</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

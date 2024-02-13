@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity_gradebook>
+  <grade_items>
+    <grade_item id="2707">
+      <categoryid>481</categoryid>
+      <itemname>Application Activity: Connecting to a Career Pathway</itemname>
+      <itemtype>mod</itemtype>
+      <itemmodule>quiz</itemmodule>
+      <iteminstance>178</iteminstance>
+      <itemnumber>0</itemnumber>
+      <iteminfo>$@NULL@$</iteminfo>
+      <idnumber>$@NULL@$</idnumber>
+      <calculation>$@NULL@$</calculation>
+      <gradetype>1</gradetype>
+      <grademax>70.00000</grademax>
+      <grademin>0.00000</grademin>
+      <scaleid>$@NULL@$</scaleid>
+      <outcomeid>$@NULL@$</outcomeid>
+      <gradepass>50.00000</gradepass>
+      <multfactor>1.00000</multfactor>
+      <plusfactor>0.00000</plusfactor>
+      <aggregationcoef>0.00000</aggregationcoef>
+      <aggregationcoef2>0.00000</aggregationcoef2>
+      <weightoverride>0</weightoverride>
+      <sortorder>6</sortorder>
+      <display>0</display>
+      <decimals>$@NULL@$</decimals>
+      <hidden>0</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <needsupdate>0</needsupdate>
+      <timecreated>1707497980</timecreated>
+      <timemodified>1707497980</timemodified>
+      <grade_grades>
+        <grade_grade id="230295">
+          <userid>28069</userid>
+          <rawgrade>70.00000</rawgrade>
+          <rawgrademax>70.00000</rawgrademax>
+          <rawgrademin>0.00000</rawgrademin>
+          <rawscaleid>$@NULL@$</rawscaleid>
+          <usermodified>28069</usermodified>
+          <finalgrade>70.00000</finalgrade>
+          <hidden>0</hidden>
+          <locked>0</locked>
+          <locktime>0</locktime>
+          <exported>0</exported>
+          <overridden>0</overridden>
+          <excluded>0</excluded>
+          <feedback>$@NULL@$</feedback>
+          <feedbackformat>0</feedbackformat>
+          <information>$@NULL@$</information>
+          <informationformat>0</informationformat>
+          <timecreated>1707766207</timecreated>
+          <timemodified>1707766207</timemodified>
+          <aggregationstatus>used</aggregationstatus>
+          <aggregationweight>1.00000</aggregationweight>
+        </grade_grade>
+        <grade_grade id="230308">
+          <userid>2345</userid>
+          <rawgrade>50.00000</rawgrade>
+          <rawgrademax>70.00000</rawgrademax>
+          <rawgrademin>0.00000</rawgrademin>
+          <rawscaleid>$@NULL@$</rawscaleid>
+          <usermodified>2345</usermodified>
+          <finalgrade>50.00000</finalgrade>
+          <hidden>0</hidden>
+          <locked>0</locked>
+          <locktime>0</locktime>
+          <exported>0</exported>
+          <overridden>0</overridden>
+          <excluded>0</excluded>
+          <feedback>$@NULL@$</feedback>
+          <feedbackformat>0</feedbackformat>
+          <information>$@NULL@$</information>
+          <informationformat>0</informationformat>
+          <timecreated>1707767620</timecreated>
+          <timemodified>1707767620</timemodified>
+          <aggregationstatus>used</aggregationstatus>
+          <aggregationweight>1.00000</aggregationweight>
+        </grade_grade>
+      </grade_grades>
+    </grade_item>
+  </grade_items>
+  <grade_letters>
+  </grade_letters>
+</activity_gradebook>

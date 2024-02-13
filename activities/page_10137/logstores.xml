@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="21187505">
+        <eventname>\mod_page\event\course_module_viewed</eventname>
+        <component>mod_page</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>page</objecttable>
+        <objectid>2666</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>67977</contextid>
+        <userid>2345</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>Tjs=</other>
+        <timecreated>1707770594</timecreated>
+        <ip>67.242.189.164</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="21187506">
+        <eventname>\core\event\course_module_completion_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module_completion</target>
+        <objecttable>course_modules_completion</objecttable>
+        <objectid>377085</objectid>
+        <crud>u</crud>
+        <edulevel>2</edulevel>
+        <contextid>67977</contextid>
+        <userid>2345</userid>
+        <relateduserid>2345</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEzOiJyZWxhdGVkdXNlcmlkIjtzOjQ6IjIzNDUiO3M6MTA6Im92ZXJyaWRlYnkiO047czoxNToiY29tcGxldGlvbnN0YXRlIjtpOjA7fQ==</other>
+        <timecreated>1707770594</timecreated>
+        <ip>67.242.189.164</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+      <logstore_standard_log id="21187507">
+        <eventname>\core\event\course_module_completion_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module_completion</target>
+        <objecttable>course_modules_completion</objecttable>
+        <objectid>377085</objectid>
+        <crud>u</crud>
+        <edulevel>2</edulevel>
+        <contextid>67977</contextid>
+        <userid>2345</userid>
+        <relateduserid>2345</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEzOiJyZWxhdGVkdXNlcmlkIjtzOjQ6IjIzNDUiO3M6MTA6Im92ZXJyaWRlYnkiO047czoxNToiY29tcGxldGlvbnN0YXRlIjtpOjE7fQ==</other>
+        <timecreated>1707770594</timecreated>
+        <ip>67.242.189.164</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>
